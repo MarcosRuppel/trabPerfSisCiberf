@@ -1,6 +1,6 @@
 # trabPerfSisCiberf
 
-Trabalho desenvolvido como parte do RA2 da disciplina de Performance em Sistemas Ciberfísicos, do terceiro semestre do Bacharelado em Ciência da Computação da PUCPR.
+Trabalho desenvolvido como parte do RA2 da disciplina de Performance em Sistemas Ciberfísicos, do terceiro período do curso Bacharelado em Ciência da Computação da PUCPR.
 
 Autor do código: Marcos Paulo Ruppel
 
